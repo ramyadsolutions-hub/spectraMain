@@ -1,0 +1,7 @@
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+
+Console.WriteLine("Testing the rebase main");
+
+Console.WriteLine("Main website");
+
